@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -559,7 +559,7 @@
    "vn": "Smith Squat, Wide Stance"
   },
   "Chest_Press_Wide_Grip": {
-   "vid": "v/z_cpw.mp4",
+   "vid": "v/z_cpw_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
