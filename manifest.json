@@ -1,5 +1,5 @@
 {
- "version": 23,
+ "version": 24,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -72,7 +72,7 @@
    "vn": "Cable Crossover"
   },
   "Flat_Bench_Cable_Flyes": {
-   "vid": "v/z_fcf.mp4",
+   "vid": "v/z_fcf_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
