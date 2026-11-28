@@ -1,5 +1,5 @@
 {
- "version": 29,
+ "version": 30,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -202,7 +202,7 @@
    ]
   },
   "Leverage_Iso_Row": {
-   "vid": "v/z_lir.mp4",
+   "vid": "v/z_lir_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
