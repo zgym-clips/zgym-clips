@@ -1,5 +1,5 @@
 {
- "version": 50,
+ "version": 51,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -524,7 +524,7 @@
    "vn": "Seated Cable Shoulder Press"
   },
   "Smith_Machine_Overhead_Shoulder_Press": {
-   "vid": "v/z_smsp.mp4",
+   "vid": "v/z_smsp_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
