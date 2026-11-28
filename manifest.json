@@ -1,5 +1,5 @@
 {
- "version": 64,
+ "version": 65,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -623,6 +623,13 @@
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
    "vn": "Seated cable chest press"
+  },
+  "Seated_Calf_Raise": {
+   "vid": "v/z_scr_m.mp4",
+   "vs": "zl",
+   "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
+   "vk": "E",
+   "vn": "Seated calf raise (machine)"
   }
  },
  "brands": [],
