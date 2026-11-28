@@ -1,5 +1,5 @@
 {
- "version": 55,
+ "version": 56,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -136,7 +136,7 @@
    "vn": "Triceps Pushdown"
   },
   "Triceps_Overhead_Extension_with_Rope": {
-   "vid": "v/z_tre.mp4",
+   "vid": "v/z_tre_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
