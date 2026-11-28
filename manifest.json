@@ -1,5 +1,5 @@
 {
- "version": 43,
+ "version": 44,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -86,7 +86,7 @@
    "vn": "Dip Machine"
   },
   "Seated_Dumbbell_Press": {
-   "vid": "v/z_sdp.mp4",
+   "vid": "v/z_sdp_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
