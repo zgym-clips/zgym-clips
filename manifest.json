@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -411,7 +411,7 @@
    "vn": "Leg curls (standing)"
   },
   "Barbell_Lunge": {
-   "vid": "v/z_bl.mp4",
+   "vid": "v/z_bl_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
