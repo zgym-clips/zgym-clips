@@ -1,5 +1,5 @@
 {
- "version": 15,
+ "version": 16,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -23,14 +23,14 @@
    "vn": "Incline dumbbell press"
   },
   "Machine_Bench_Press": {
-   "vid": "v/z_chestpress.mp4",
+   "vid": "v/z_chestpress_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
    "vn": "Machine chest press (Leverage model)"
   },
   "Leverage_Chest_Press": {
-   "vid": "v/z_chestpress.mp4",
+   "vid": "v/z_chestpress_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
