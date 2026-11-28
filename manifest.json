@@ -1,5 +1,5 @@
 {
- "version": 51,
+ "version": 52,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -552,7 +552,7 @@
    "vn": "Lat Pulldown, Close Grip"
   },
   "Smith_Squat_Wide": {
-   "vid": "v/z_smw.mp4",
+   "vid": "v/z_smw_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
