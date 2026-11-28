@@ -1,5 +1,5 @@
 {
- "version": 39,
+ "version": 40,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -165,7 +165,7 @@
    "vn": "Dumbbell triceps kickback"
   },
   "Wide-Grip_Lat_Pulldown": {
-   "vid": "v/z_pulldown.mp4",
+   "vid": "v/z_pulldown_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
@@ -496,7 +496,7 @@
    "vn": "Dumbbell shoulder press"
   },
   "Full_Range-Of-Motion_Lat_Pulldown": {
-   "vid": "v/z_pulldown.mp4",
+   "vid": "v/z_pulldown_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
