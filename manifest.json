@@ -1,5 +1,5 @@
 {
- "version": 38,
+ "version": 39,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -538,7 +538,7 @@
    "vn": "Smith Squat, Narrow Stance"
   },
   "Lat_Pulldown_Narrow_Grip": {
-   "vid": "v/z_pdn.mp4",
+   "vid": "v/z_pdn_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
