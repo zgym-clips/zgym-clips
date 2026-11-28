@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -446,7 +446,7 @@
    "vn": "Cable Kickback"
   },
   "Ab_Crunch_Machine": {
-   "vid": "v/z_ac.mp4",
+   "vid": "v/z_ac_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
