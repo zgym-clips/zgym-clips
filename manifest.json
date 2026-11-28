@@ -1,5 +1,5 @@
 {
- "version": 42,
+ "version": 43,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -482,7 +482,7 @@
    "vn": "Cable Seated Lateral Raise"
   },
   "Cable_Shoulder_Press": {
-   "vid": "v/z_scsp.mp4",
+   "vid": "v/z_scsp_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
@@ -517,7 +517,7 @@
    "vn": "Single-arm preacher curl"
   },
   "Seated_Cable_Shoulder_Press": {
-   "vid": "v/z_scsp.mp4",
+   "vid": "v/z_scsp_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
