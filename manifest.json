@@ -1,5 +1,5 @@
 {
- "version": 19,
+ "version": 20,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -475,7 +475,7 @@
    "vn": "One-arm triceps extension on cable"
   },
   "Cable_Seated_Lateral_Raise": {
-   "vid": "v/z_csl.mp4",
+   "vid": "v/z_csl_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
