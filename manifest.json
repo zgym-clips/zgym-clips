@@ -1,5 +1,5 @@
 {
- "version": 16,
+ "version": 17,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -566,7 +566,7 @@
    "vn": "Chest Press, Wide Grip"
   },
   "Chest_Press_Narrow_Grip": {
-   "vid": "v/z_cpn.mp4",
+   "vid": "v/z_cpn_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
