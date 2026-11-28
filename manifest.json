@@ -1,5 +1,5 @@
 {
- "version": 68,
+ "version": 69,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -651,6 +651,13 @@
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
    "vn": "Seated Barbell Military Press"
+  },
+  "Standing_Barbell_Calf_Raise": {
+   "vid": "v/z_scb_m.mp4",
+   "vs": "zl",
+   "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
+   "vk": "E",
+   "vn": "Standing Barbell Calf Raise"
   }
  },
  "brands": [],
