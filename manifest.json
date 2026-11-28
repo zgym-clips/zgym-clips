@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -425,7 +425,7 @@
    "vn": "Dumbbell lunges standing"
   },
   "Thigh_Abductor": {
-   "vid": "v/z_abd.mp4",
+   "vid": "v/z_abd_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
