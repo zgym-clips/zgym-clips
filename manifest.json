@@ -1,5 +1,5 @@
 {
- "version": 21,
+ "version": 22,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -503,7 +503,7 @@
    "vn": "Lat pulldown (wide grip clip)"
   },
   "Leverage_Decline_Chest_Press": {
-   "vid": "v/z_dcp.mp4",
+   "vid": "v/z_dcp_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
