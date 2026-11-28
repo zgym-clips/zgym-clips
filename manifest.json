@@ -1,5 +1,5 @@
 {
- "version": 41,
+ "version": 42,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -237,7 +237,7 @@
    "vn": "Face pulls"
   },
   "Reverse_Machine_Flyes": {
-   "vid": "v/z_rf.mp4",
+   "vid": "v/z_rf_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
