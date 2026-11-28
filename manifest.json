@@ -1,5 +1,5 @@
 {
- "version": 20,
+ "version": 21,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -287,7 +287,7 @@
    "vn": "Dumbbell biceps curl"
   },
   "Dumbbell_Alternate_Bicep_Curl": {
-   "vid": "v/z_dc.mp4",
+   "vid": "v/z_dc_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
