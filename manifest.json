@@ -1,5 +1,5 @@
 {
- "version": 56,
+ "version": 57,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -618,7 +618,7 @@
    "vn": "Front dumbbell raise (seated)"
   },
   "Cable_Chest_Press": {
-   "vid": "v/z_ccp.mp4",
+   "vid": "v/z_ccp_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
