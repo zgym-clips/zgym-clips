@@ -1,5 +1,5 @@
 {
- "version": 25,
+ "version": 26,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -258,7 +258,7 @@
    "vn": "Deadlift"
   },
   "Hyperextensions_Back_Extensions": {
-   "vid": "v/z_hyp.mp4",
+   "vid": "v/z_hyp_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
