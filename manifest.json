@@ -1,5 +1,5 @@
 {
- "version": 14,
+ "version": 15,
  "clips": {
   "Barbell_Bench_Press_-_Medium_Grip": {
    "vid": "v/cm_bench.mp4",
@@ -58,7 +58,7 @@
    "vn": "Smith machine bench press"
   },
   "Butterfly": {
-   "vid": "v/z_butterfly.mp4",
+   "vid": "v/z_butterfly_m.mp4",
    "vs": "zl",
    "va": "Z Gym animation, Ecorche model CC BY-SA 4.0 (see About)",
    "vk": "E",
